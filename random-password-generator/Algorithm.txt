@@ -1,0 +1,7 @@
+1. Buat variabel variabel yang akan digenerator (uppercase,lowercase,number)
+2. Masukkan semua variabel tadi ke dalam sebuah variabel password.
+3. Tentukan berapa panjang password yang akan dibentuk
+4. buat class random untuk mengambil masing-masing kombinasi
+5. buat array char untuk menampung password yang digenerasi
+6. buat for untuk mengenerate password.
+7. tampilkan password yang sudah digenerated
